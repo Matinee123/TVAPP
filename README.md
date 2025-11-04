@@ -66,7 +66,7 @@
 | 哔哩哔哩TV版            | v1.6.6      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/哔哩哔哩_1.6.6_v11正式版.apk) | 🟢    | 哔哩哔哩TV第三方版，V11 正式版。完美解决了之前版本中无法播放和首页无法点击的问题 |
 | 儿歌多多TV              | v1.3.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/儿歌多多TV_1.3.1.0无限制版.apk) | 🟢    | 无限制版                                                     |
 | 七星智教                | v3.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
-| 宝宝趣学                | v2.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/宝宝趣学_v2.0.0.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
+| 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
 | CIBN糖豆-糖豆广场舞TV版 | v3.2.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
 | 野草助手                | v2.0.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/野草助手-TV版-v2.0.8.apk) | 🟢    | 野草助手APP一款可以方便用户快捷的在电视端安装应用的应用工具，口令、远程安装等多种途径可以快速辅助大家安装应用。 |
 | 纯粹直播TV              | v1.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
