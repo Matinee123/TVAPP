@@ -139,21 +139,20 @@
  https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json		# 蜂蜜接口
  http://ok321.top/tv		# OK影视内部接口
  http://ok321.top/ok		# OK影视公开接口
- https://ztha.top/TVBox/thdjk.json		# 挺好分享
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
  http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
- https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # 多多
  https://哪吒.live/	# 哪吒
  https://www.252035.xyz/z/FongMi.json	# 真心
  http://www.meowtv.vip/tvbox.json	# 喵影视
  http://fmys.top/fmys.json	# 驸马
  https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
- https://fmbox.cc/	# 星辰
  https://raw.githubusercontent.com/maoystv/6/main/000.json	# 分享
+ https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json		# 短剧
+ http://cdn.qiaoji8.com/tvbox.json		# 巧记
 
 多仓：
- https://www.iyouhun.com/tv/yh   # 游魂多仓
  https://www.iyouhun.com/tv/dc   # 游魂多仓
+ https://www.iyouhun.com/tv/yh   # 游魂多仓（备）
  http://xhztv.top/dc/   # 小盒子多仓
  http://xhztv.top/DC.txt  # 小盒子多仓（备）
  https://bitbucket.org/xduo/cool/raw/main/room.json   # 多多影音
